@@ -1,0 +1,14 @@
+{
+  "name": "sal-playwright-playground",
+  "version": "1.0.0",
+  "description": "- install playwright\r ` npm init playwright@latest `",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.47.0",
+    "@types/node": "^22.5.4"
+  }
+}
